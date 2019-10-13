@@ -1,0 +1,16 @@
+{
+    "name": "mikhail/spl-observer",
+    "authors": [
+        {
+            "name": "bazgalev",
+            "email": "pazickss@yandex.ru"
+        }
+    ],
+    "require": {},
+    "autoload":
+        {
+            "psr-4":{
+                "App\\":"src/"
+        }
+    }
+}
